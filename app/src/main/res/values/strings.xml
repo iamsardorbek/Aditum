@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Aditum</string>
+    <string name="appName">ADITUM</string>
+    <string name="loginHint">Логин</string>
+    <string name="logo">Logo</string>
+    <string name="password_hint">Пароль</string>
+    <string name="enter_data">Введите даные</string>
+    <string name="description_login_page">by Engineering Team, 2020</string>
+    <string name="login_button">Авторизироваться</string>
+    <string name="todo">TODO</string>
+    <string name="photo_content_description">photo</string>
+    <string name="name_default_text">Denis\nYermalayev</string>
+    <string name="position_default_text">Инженер</string>
+    <string name="given_text">Выдан</string>
+    <string name="default_date">21.11.2019</string>
+    <string name="qr_code">qr_code</string>
 </resources>

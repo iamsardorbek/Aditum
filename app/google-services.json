@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751488632419",
+    "firebase_url": "https://akfa-aditum-eb2f5.firebaseio.com",
+    "project_id": "akfa-aditum-eb2f5",
+    "storage_bucket": "akfa-aditum-eb2f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751488632419:android:2b7292587271302fa21a56",
+        "android_client_info": {
+          "package_name": "uz.akfa.aditum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751488632419-uo3eq5v26696o30unvi253jjt3b1sus1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQa6DjGhcm1VhPI_gZdAoIIIgyVRMosY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751488632419-uo3eq5v26696o30unvi253jjt3b1sus1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
